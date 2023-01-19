@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: sales-order-manager
 ---
 - id: 1
   name: Franc
@@ -9,6 +12,3 @@
   roles:
   - admin
   - finance
-spring:
-  application:
-    name: sales-order-manager
