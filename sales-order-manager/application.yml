@@ -1,6 +1,11 @@
-fields:
- ---
- - label: test
-   message: message
- - label: test2
-   message: message2
+---
+- id: 1
+  name: Franc
+  roles:
+  - admin
+  - hr
+- id: 2
+  name: John
+  roles:
+  - admin
+  - finance
