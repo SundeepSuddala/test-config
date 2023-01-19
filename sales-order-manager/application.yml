@@ -9,3 +9,6 @@
   roles:
   - admin
   - finance
+spring:
+  application:
+    name: sales-order-manager
